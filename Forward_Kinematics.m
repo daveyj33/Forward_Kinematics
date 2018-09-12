@@ -1,4 +1,4 @@
-%hold off
+hold off
 clear
 clc
 for t=0:.5:135
